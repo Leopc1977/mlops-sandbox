@@ -1,0 +1,9 @@
+# Ignore virtual environment
+venv/
+# Ignore DVC cache (optionnel si tu veux)
+.dvc/cache/
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
